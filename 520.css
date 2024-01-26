@@ -10,17 +10,17 @@
 .myui-panel-box.active{ margin: -10px;}
 
 /* all  */
-body{ background: #343434; color: #999;}
+body{ background: #000; color: #000;}
 
 /* text */
-a,h1, h2, h3, h4, h5, h6,h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{ color: #7b8c9d;}
+a,h1, h2, h3, h4, h5, h6,h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{ color: #A0A000;}
 a:hover{ color: cornflowerblue;}
 a.disabled{ cursor: not-allowed; opacity: 0.6;}
 .text-333{ color: #333;}
 .text-muted{ color: #999;}
 .text-red{ color: red;}
 .text-link{ color: blue;}
-.text-fff{ color: #fff;}
+.text-fff{ color: #000;}
 
 /* form */
 .form-control{ background-color:#F5F5F5; color: #999999; border: 1px solid #eee;}
