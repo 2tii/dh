@@ -27,40 +27,40 @@ function auto(url){
 	if(url==autourl[6]){
 		$('#lineMs6').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[7]){
 		$('#lineMs7').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[8]){
 		$('#lineMs8').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[9]){
 		$('#lineMs9').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[10]){
 		$('#lineMs10').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[11]){
 		$('#lineMs11').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[12]){
 		$('#lineMs12').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[13]){
 		$('#lineMs13').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[14]){
 		$('#lineMs14').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[15]){
 		$('#lineMs15').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[16]){
 		$('#lineMs16').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[17]){
 		$('#lineMs17').html(str+'ms')
 	}
-	if(url==autourl[6]){
+	if(url==autourl[18]){
 		$('#lineMs18').html(str+'ms')
 	}
 }
