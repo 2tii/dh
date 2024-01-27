@@ -27,6 +27,42 @@ function auto(url){
 	if(url==autourl[6]){
 		$('#lineMs6').html(str+'ms')
 	}
+	if(url==autourl[6]){
+		$('#lineMs7').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs8').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs9').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs10').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs11').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs12').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs13').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs14').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs15').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs16').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs17').html(str+'ms')
+	}
+	if(url==autourl[6]){
+		$('#lineMs18').html(str+'ms')
+	}
 }
 function run(){
 	for(var i=0;i<autourl.length;i++){
